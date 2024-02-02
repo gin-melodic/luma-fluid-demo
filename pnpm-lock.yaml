@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   luma-fluid-lib:
-    specifier: ^0.0.1
-    version: 0.0.1(react-dom@18.2.0)(react@18.2.0)(styled-components@6.1.8)
+    specifier: ^0.0.2
+    version: 0.0.2(react-dom@18.2.0)(react@18.2.0)(styled-components@6.1.8)
   react:
     specifier: ^18.2.0
     version: 18.2.0
@@ -1578,8 +1578,8 @@ packages:
       yallist: 4.0.0
     dev: true
 
-  /luma-fluid-lib@0.0.1(react-dom@18.2.0)(react@18.2.0)(styled-components@6.1.8):
-    resolution: {integrity: sha512-akIPdRo9QEZ29XFxL8wqmtwvsaAo0ZCufK+XIM6UDXgx646EDb+9Eniw6fFbdzpxC9kc3bL/3NXrbe+yyoGhHg==}
+  /luma-fluid-lib@0.0.2(react-dom@18.2.0)(react@18.2.0)(styled-components@6.1.8):
+    resolution: {integrity: sha512-W+MxGZLtkw2A9r0hUE28QYSuULI0HJW1ToXUKHgVAIYLMZdKWLdB3mASLm10V3AVaGLOTCAGWUB7AqetMIrOWg==}
     peerDependencies:
       react: 18.x || 17.x
       react-dom: ^18.2.0 || 17.x
