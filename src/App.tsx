@@ -98,6 +98,7 @@ function App() {
         <div className='restore-btn-container'>
           <input type='button' value='Restore' onClick={() => setSettings(initSetting)}/>
         </div>
+        <a className='link' href='https://github.com/gin-melodic/luma-fluid-lib' target='_blank'>github.com/gin-melodic/luma-fluid-lib</a>
       </div>
     </div>
   )
